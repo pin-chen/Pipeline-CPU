@@ -14,6 +14,8 @@
 `include "Shifter.v"
 `include "Sign_Extend.v"
 `include "Zero_Filled.v"
+`include "Pipeline_Reg.v"
+`include "Pipeline_CPU.v"
 
 // REMEMBER TO
 // `include "Your pipeline CPU"
