@@ -1,6 +1,6 @@
 // Class: 109暑 計算機組織 蔡文錦
 // Author: 陳品劭 109550206
-// Date: 20210812
+// Date: 20210821
 module Reg_File( clk_i, rst_n, RSaddr_i, RTaddr_i, RDaddr_i, RDdata_i, RegWrite_i, RSdata_o, RTdata_o );
           
 //I/O ports

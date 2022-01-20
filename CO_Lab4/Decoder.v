@@ -1,6 +1,6 @@
 // Class: 109暑 計算機組織 蔡文錦
 // Author: 陳品劭 109550206
-// Date: 20210812
+// Date: 20210821
 module Decoder( instr_op_i, RegWrite_o,	ALUOp_o, ALUSrc_o, RegDst_o, Branch_o, MemRead_o, MemWrite_o, MemtoReg_o, Jump_o, BranchType_o, Jal_o, rt_o);
      
 //I/O ports

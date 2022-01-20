@@ -1,6 +1,6 @@
 // Class: 109暑 計算機組織 蔡文錦
 // Author: 陳品劭 109550206
-// Date: 20210812
+// Date: 20210821
 module Instr_Memory( pc_addr_i, instr_o	);
 
 //I/O ports

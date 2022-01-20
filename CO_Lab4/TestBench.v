@@ -1,3 +1,6 @@
+// Class: 109暑 計算機組織 蔡文錦
+// Author: 陳品劭 109550206
+// Date: 20210821
 `timescale 1ns / 1ps
 `define CYCLE_TIME 10
 
@@ -42,7 +45,7 @@ always #(`CYCLE_TIME/2) CLK = ~CLK;
 
 initial  begin
 
-	$readmemb("CO_P4_test_data1.txt", cpu.IM.Instr_Mem);
+	$readmemb("CO_P4_test_data2.txt", cpu.IM.Instr_Mem);
 	CLK = 0;
 	RST = 0;
 	count = 0;

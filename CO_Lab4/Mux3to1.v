@@ -1,6 +1,6 @@
 // Class: 109暑 計算機組織 蔡文錦
 // Author: 陳品劭 109550206
-// Date: 20210812
+// Date: 20210821
 module Mux3to1( data0_i, data1_i, data2_i, select_i, data_o );
 
 parameter size = 0;			   
